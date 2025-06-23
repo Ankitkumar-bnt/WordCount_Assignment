@@ -1,5 +1,4 @@
 
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.InputStreamReader;
@@ -16,7 +15,7 @@ class CharacterOccurrenceHelper {
 	{
 		
 		String str = "";
-		String path = "https://raw.githubusercontent.com/Ankitkumar-bnt/WordCount_Assign_1/WordCount_Assign_1/InputFile.txt";
+		String path = "https://raw.githubusercontent.com/Ankitkumar-bnt/WordCount_Assignment/WordCount_Assign_1/InputFile.txt";
 				
 		try {
 			URL url = new URL(path);
